@@ -1,0 +1,15 @@
+/Users/alenakatanskaya/Desktop/HomeWork_1/Exersize4.1/bin/Debug/net6.0/Exersize4.1
+/Users/alenakatanskaya/Desktop/HomeWork_1/Exersize4.1/bin/Debug/net6.0/Exersize4.1.deps.json
+/Users/alenakatanskaya/Desktop/HomeWork_1/Exersize4.1/bin/Debug/net6.0/Exersize4.1.runtimeconfig.json
+/Users/alenakatanskaya/Desktop/HomeWork_1/Exersize4.1/bin/Debug/net6.0/Exersize4.1.dll
+/Users/alenakatanskaya/Desktop/HomeWork_1/Exersize4.1/bin/Debug/net6.0/Exersize4.1.pdb
+/Users/alenakatanskaya/Desktop/HomeWork_1/Exersize4.1/obj/Debug/net6.0/Exersize4.1.csproj.AssemblyReference.cache
+/Users/alenakatanskaya/Desktop/HomeWork_1/Exersize4.1/obj/Debug/net6.0/Exersize4.1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alenakatanskaya/Desktop/HomeWork_1/Exersize4.1/obj/Debug/net6.0/Exersize4.1.AssemblyInfoInputs.cache
+/Users/alenakatanskaya/Desktop/HomeWork_1/Exersize4.1/obj/Debug/net6.0/Exersize4.1.AssemblyInfo.cs
+/Users/alenakatanskaya/Desktop/HomeWork_1/Exersize4.1/obj/Debug/net6.0/Exersize4.1.csproj.CoreCompileInputs.cache
+/Users/alenakatanskaya/Desktop/HomeWork_1/Exersize4.1/obj/Debug/net6.0/Exersize4.1.dll
+/Users/alenakatanskaya/Desktop/HomeWork_1/Exersize4.1/obj/Debug/net6.0/refint/Exersize4.1.dll
+/Users/alenakatanskaya/Desktop/HomeWork_1/Exersize4.1/obj/Debug/net6.0/Exersize4.1.pdb
+/Users/alenakatanskaya/Desktop/HomeWork_1/Exersize4.1/obj/Debug/net6.0/Exersize4.1.genruntimeconfig.cache
+/Users/alenakatanskaya/Desktop/HomeWork_1/Exersize4.1/obj/Debug/net6.0/ref/Exersize4.1.dll
