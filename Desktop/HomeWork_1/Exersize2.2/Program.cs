@@ -1,2 +1,10 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿Console.ReadLine();
+
+int a = 2;
+int b = 10;
+
+int max = a;
+if (b > a)
+    max = b;
+
+Console.WriteLine(max);
