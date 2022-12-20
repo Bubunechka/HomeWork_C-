@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/alenakatanskaya/Desktop/HomeWork_1/Exersize2/Exersize2.csproj",
+      "projectUniqueName": "/Users/alenakatanskaya/Desktop/HomeWork_1/Exersize2.1/Exersize2.csproj",
       "projectName": "Exersize2",
-      "projectPath": "/Users/alenakatanskaya/Desktop/HomeWork_1/Exersize2/Exersize2.csproj",
+      "projectPath": "/Users/alenakatanskaya/Desktop/HomeWork_1/Exersize2.1/Exersize2.csproj",
       "packagesPath": "/Users/alenakatanskaya/.nuget/packages/",
-      "outputPath": "/Users/alenakatanskaya/Desktop/HomeWork_1/Exersize2/obj/",
+      "outputPath": "/Users/alenakatanskaya/Desktop/HomeWork_1/Exersize2.1/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/alenakatanskaya/.nuget/NuGet/NuGet.Config"
