@@ -3,3 +3,13 @@
 /Users/alenakatanskaya/Desktop/HomeWork_1/Exersize6.1/obj/Debug/net6.0/Exersize6.1.AssemblyInfoInputs.cache
 /Users/alenakatanskaya/Desktop/HomeWork_1/Exersize6.1/obj/Debug/net6.0/Exersize6.1.AssemblyInfo.cs
 /Users/alenakatanskaya/Desktop/HomeWork_1/Exersize6.1/obj/Debug/net6.0/Exersize6.1.csproj.CoreCompileInputs.cache
+/Users/alenakatanskaya/Desktop/HomeWork_1/Exersize6.1/bin/Debug/net6.0/Exersize6.1
+/Users/alenakatanskaya/Desktop/HomeWork_1/Exersize6.1/bin/Debug/net6.0/Exersize6.1.deps.json
+/Users/alenakatanskaya/Desktop/HomeWork_1/Exersize6.1/bin/Debug/net6.0/Exersize6.1.runtimeconfig.json
+/Users/alenakatanskaya/Desktop/HomeWork_1/Exersize6.1/bin/Debug/net6.0/Exersize6.1.dll
+/Users/alenakatanskaya/Desktop/HomeWork_1/Exersize6.1/bin/Debug/net6.0/Exersize6.1.pdb
+/Users/alenakatanskaya/Desktop/HomeWork_1/Exersize6.1/obj/Debug/net6.0/Exersize6.1.dll
+/Users/alenakatanskaya/Desktop/HomeWork_1/Exersize6.1/obj/Debug/net6.0/refint/Exersize6.1.dll
+/Users/alenakatanskaya/Desktop/HomeWork_1/Exersize6.1/obj/Debug/net6.0/Exersize6.1.pdb
+/Users/alenakatanskaya/Desktop/HomeWork_1/Exersize6.1/obj/Debug/net6.0/Exersize6.1.genruntimeconfig.cache
+/Users/alenakatanskaya/Desktop/HomeWork_1/Exersize6.1/obj/Debug/net6.0/ref/Exersize6.1.dll

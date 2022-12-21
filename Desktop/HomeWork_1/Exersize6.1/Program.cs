@@ -31,3 +31,5 @@ else
     Console.Write("Введенное число нечетное");
     Console.Read();
 }
+
+
