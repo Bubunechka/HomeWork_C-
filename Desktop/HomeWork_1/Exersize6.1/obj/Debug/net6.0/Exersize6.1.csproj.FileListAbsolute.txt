@@ -1,0 +1,5 @@
+/Users/alenakatanskaya/Desktop/HomeWork_1/Exersize6.1/obj/Debug/net6.0/Exersize6.1.csproj.AssemblyReference.cache
+/Users/alenakatanskaya/Desktop/HomeWork_1/Exersize6.1/obj/Debug/net6.0/Exersize6.1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alenakatanskaya/Desktop/HomeWork_1/Exersize6.1/obj/Debug/net6.0/Exersize6.1.AssemblyInfoInputs.cache
+/Users/alenakatanskaya/Desktop/HomeWork_1/Exersize6.1/obj/Debug/net6.0/Exersize6.1.AssemblyInfo.cs
+/Users/alenakatanskaya/Desktop/HomeWork_1/Exersize6.1/obj/Debug/net6.0/Exersize6.1.csproj.CoreCompileInputs.cache
