@@ -1,0 +1,15 @@
+/Users/alenakatanskaya/Desktop/HW_3_C/Ex_19/bin/Debug/net6.0/Ex_19
+/Users/alenakatanskaya/Desktop/HW_3_C/Ex_19/bin/Debug/net6.0/Ex_19.deps.json
+/Users/alenakatanskaya/Desktop/HW_3_C/Ex_19/bin/Debug/net6.0/Ex_19.runtimeconfig.json
+/Users/alenakatanskaya/Desktop/HW_3_C/Ex_19/bin/Debug/net6.0/Ex_19.dll
+/Users/alenakatanskaya/Desktop/HW_3_C/Ex_19/bin/Debug/net6.0/Ex_19.pdb
+/Users/alenakatanskaya/Desktop/HW_3_C/Ex_19/obj/Debug/net6.0/Ex_19.csproj.AssemblyReference.cache
+/Users/alenakatanskaya/Desktop/HW_3_C/Ex_19/obj/Debug/net6.0/Ex_19.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alenakatanskaya/Desktop/HW_3_C/Ex_19/obj/Debug/net6.0/Ex_19.AssemblyInfoInputs.cache
+/Users/alenakatanskaya/Desktop/HW_3_C/Ex_19/obj/Debug/net6.0/Ex_19.AssemblyInfo.cs
+/Users/alenakatanskaya/Desktop/HW_3_C/Ex_19/obj/Debug/net6.0/Ex_19.csproj.CoreCompileInputs.cache
+/Users/alenakatanskaya/Desktop/HW_3_C/Ex_19/obj/Debug/net6.0/Ex_19.dll
+/Users/alenakatanskaya/Desktop/HW_3_C/Ex_19/obj/Debug/net6.0/refint/Ex_19.dll
+/Users/alenakatanskaya/Desktop/HW_3_C/Ex_19/obj/Debug/net6.0/Ex_19.pdb
+/Users/alenakatanskaya/Desktop/HW_3_C/Ex_19/obj/Debug/net6.0/Ex_19.genruntimeconfig.cache
+/Users/alenakatanskaya/Desktop/HW_3_C/Ex_19/obj/Debug/net6.0/ref/Ex_19.dll
